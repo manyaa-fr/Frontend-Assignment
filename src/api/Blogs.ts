@@ -1,6 +1,6 @@
 import type { Blog, CreateBlogInput } from "../types/Blog";
 
-const BASE_URL = "https://frontend-assignment-39ko.onrender.com/";
+const BASE_URL = "https://frontend-assignment-39ko.onrender.com/blogs";
 
 export const fetchBlogs = async (): Promise<Blog[]> => {
   const res = await fetch(`${BASE_URL}/blogs`);
