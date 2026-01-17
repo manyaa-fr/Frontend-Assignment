@@ -2,6 +2,9 @@
 
 This repository contains my submission for the CA Monk Blog Application assignment.
 
+**Live Demo:**  
+https://frontend-assignment-4p6d41l88-manyas-projects-0623e789.vercel.app/
+
 ---
 
 ## Installation
